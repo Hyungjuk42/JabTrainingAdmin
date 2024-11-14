@@ -1,0 +1,16 @@
+{
+  "name": "jabtrainingadmin",
+  "version": "1.0.0",
+  "description": "잽 트레이닝 예약 앱의 Local Admin을 관리하는 repository",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
