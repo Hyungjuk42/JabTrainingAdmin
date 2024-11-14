@@ -1,0 +1,2 @@
+Set objShell = CreateObject("Shell.Application")
+objShell.ShellExecute "C:\Users\Kim\Downloads\out\start_server.bat", "/c lodctr.exe /r" , "", "runas", 0
